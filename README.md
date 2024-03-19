@@ -5,6 +5,6 @@
 - 🌱 I’m currently learning Computer vision and active learning
 - 👯 I’m looking to collaborate on experimental design and computer science
 - 💬 Ask me about Anything
-- 📫 How to reach me: hliu56buffalo@gmail.com
+- 📫 How to reach me: hliu236@fordham.edu
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: My home is raining, My campus is sunny.
