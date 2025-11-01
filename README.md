@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working at Fordham University
-- 🌱 I’m currently learning Computer vision and active learning
+- 🌱 I’m currently learning Computer vision and Active learning
 - 👯 I’m looking to collaborate on experimental design and computer science
 - 💬 Ask me about Anything
 - 📫 How to reach me: hliu236@fordham.edu
